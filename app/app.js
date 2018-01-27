@@ -17,6 +17,8 @@ import FontFaceObserver from 'fontfaceobserver';
 import createHistory from 'history/createBrowserHistory';
 import 'sanitize.css/sanitize.css';
 
+import 'styles/styles.scss';
+
 // Import root app
 import App from 'containers/App';
 
