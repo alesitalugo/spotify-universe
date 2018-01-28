@@ -1,0 +1,17 @@
+.artists-wrapper {
+	position: absolute;
+	width: 90%;
+    height: 90%;
+}
+.artist-asset {
+	background-image: url(https://www.fillmurray.com/80/80);
+    background-size: contain;
+    background-position: center;
+    width: 93%;
+    height: 100%;
+    margin: 0 auto;
+}
+.artist {
+	background-color: $white;
+	cursor: pointer;
+}
